@@ -9,7 +9,7 @@ Auto-Caesarean-Decipher is a Python program designed to automatically decipher E
 - The input text is converted to lowercase for consistency in the decryption process.
 
 2. English Word Database:
-- The program reads a 474k English words text file ('words.txt'), which serves as the English word database. This database is used to determine the validity of words during decryption.
+- The program reads a 479k English words text file ('words.txt'), which serves as the English word database. This database is used to determine the validity of words during decryption.
 
 
 3. Word Count in Enciphered Text:
@@ -36,3 +36,6 @@ Auto-Caesarean-Decipher is a Python program designed to automatically decipher E
 - The program closes the 474k English words text file after the decryption process.
 
 ## Resources
+[Database of 479k English Words](https://github.com/dwyl/english-words)
+[Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+[Decipher Bot (Encryption and Decryption of text messages based on the discord API)](https://github.com/rs0125/DisCipher)
