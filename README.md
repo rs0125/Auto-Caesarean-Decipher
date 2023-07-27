@@ -37,5 +37,7 @@ Auto-Caesarean-Decipher is a Python program designed to automatically decipher E
 
 ## Resources
 [Database of 479k English Words](https://github.com/dwyl/english-words)
+
 [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+
 [Decipher Bot (Encryption and Decryption of text messages based on the discord API)](https://github.com/rs0125/DisCipher)
