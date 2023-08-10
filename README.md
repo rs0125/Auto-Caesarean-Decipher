@@ -41,3 +41,7 @@ Auto-Caesarean-Decipher is a Python program designed to automatically decipher E
 [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
 [Decipher Bot (Encryption and Decryption of text messages based on the discord API)](https://github.com/rs0125/DisCipher)
+
+### Planned Expansions
+- integration in decryption bot
+- usage of set search in python to optimise speed down to 10 ms per search (set of 500k)
