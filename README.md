@@ -45,3 +45,5 @@ Auto-Caesarean-Decipher is a Python program designed to automatically decipher E
 ### Planned Expansions
 - integration in decryption bot
 - usage of set search in python to optimise speed down to 10 ms per search (set of 500k)
+
+TODO: function documentation
